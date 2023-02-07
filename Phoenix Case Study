@@ -1,5 +1,0 @@
-import pandas as pd
-import matplotlib.pyplot as mp
-import numpy as np
-df = pd.read_excel(r'C:\Users\olich\OneDrive\Documents\Downloads\Programming\Dataset.xlsx')
-print(df)
