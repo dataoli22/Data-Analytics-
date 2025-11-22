@@ -1,5 +1,5 @@
 # Data-Analytics-
 
 First projects repo (basic level).
-Convers basics- just getting to know what the difference is between inference, classification & forecasting algorithms in ML. 
+Just getting to know what the difference between inference, classification & forecasting algorithms is, in ML. 
 
